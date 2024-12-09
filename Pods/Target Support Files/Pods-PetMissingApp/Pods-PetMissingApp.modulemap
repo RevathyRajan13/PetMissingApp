@@ -1,0 +1,6 @@
+framework module Pods_PetMissingApp {
+  umbrella header "Pods-PetMissingApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
